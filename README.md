@@ -1539,3 +1539,124 @@ print(colors + colors2)
 ```
 ['voilet', 'indigo', 'blue', 'green', 'yellow', 'orange', 'red']
 ```
+
+# Day 24 - Python Tuples
+Tuples are ordered collection of data items. They store multiple items in a single variable. Tuple items are separated by commas and enclosed within round brackets (). Tuples are unchangeable meaning we can not alter them after creation.
+
+ 
+
+### Example 1:
+```python
+tuple1 = (1,2,2,3,5,4,6)
+tuple2 = ("Red", "Green", "Blue")
+print(tuple1)
+print(tuple2)
+```
+### Output:
+```
+(1, 2, 2, 3, 5, 4, 6)
+('Red', 'Green', 'Blue')
+```
+
+### Example 2:
+```python
+details = ("Abhijeet", 18, "FYBScIT", 9.8)
+print(details)
+```
+### Output:
+```
+('Abhijeet', 18, 'FYBScIT', 9.8)
+```
+
+# Day 25 - Manipulating Tuples
+Tuples are immutable, hence if you want to add, remove or change tuple items, then first you must convert the tuple to a list. Then perform operation on that list and convert it back to tuple.
+
+#### Example:
+```python
+countries = ("Spain", "Italy", "India", "England", "Germany")
+temp = list(countries)
+temp.append("Russia")       #add item 
+temp.pop(3)                 #remove item
+temp[2] = "Finland"         #change item
+countries = tuple(temp)
+print(countries)
+```
+#### Output:
+```
+('Spain', 'Italy', 'Finland', 'Germany', 'Russia')
+ ```
+
+Thus, we convert the tuple to a list, manipulate items of the list using list methods, then convert list back to a tuple.
+
+ 
+
+However, we can directly concatenate two tuples without converting them to list.
+
+#### Example:
+```python
+countries = ("Pakistan", "Afghanistan", "Bangladesh", "ShriLanka")
+countries2 = ("Vietnam", "India", "China")
+southEastAsia = countries + countries2
+print(southEastAsia)
+```
+#### Output:
+```
+('Pakistan', 'Afghanistan', 'Bangladesh', 'ShriLanka', 'Vietnam', 'India', 'China')
+```
+
+# Day 26 - Excersice 2: Good Morning Sir
+Create a python program capable of greeting you with Good Morning, Good Afternoon and Good Evening. Your program should use time module to get the current hour. Here is a sample program and documentation link for you:
+```python
+import time
+timestamp = time.strftime('%H:%M:%S')
+print(timestamp)
+timestamp = time.strftime('%H')
+print(timestamp)
+timestamp = time.strftime('%M')
+print(timestamp)
+timestamp = time.strftime('%S')
+print(timestamp)
+# https://docs.python.org/3/library/time.html#time.strftime
+```
+
+# Day 27 - Excersice 3
+
+## Create a program capable of displaying questions to the user like KBC. 
+Use List data type to store the questions and their correct answers.
+Display the final amount the person is taking home after playing the game.
+
+# Day 28 - String formatting in python
+String formatting can be done in python using the format method.
+```python
+txt = "For only {price:.2f} dollars!"
+print(txt.format(price = 49))
+```
+# f-strings in python
+It is a new string formatting mechanism introduced by the PEP 498. It is also known as Literal String Interpolation or more commonly as F-strings (f character preceding the string literal). The primary focus of this mechanism is to make the interpolation easier.
+
+When we prefix the string with the letter 'f', the string becomes the f-string itself. The f-string can be formatted in much same as the str.format() method. The f-string offers a convenient way to embed Python expression inside string literals for formatting.
+
+## Example
+```python
+val = 'Geeks'  
+print(f"{val}for{val} is a portal for {val}.")  
+name = 'Tushar'  
+age = 23  
+print(f"Hello, My name is {name} and I'm {age} years old.")  
+```
+## Output:
+```
+Hello, My name is Tushar and I'm 23 years old.
+```
+In the above code, we have used the f-string to format the string. It evaluates at runtime; we can put all valid Python expressions in them.
+
+We can use it in a single statement as well.
+## Example
+```python
+print(f"{2 * 30})"  
+```
+## Output:
+```
+60
+```
+
