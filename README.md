@@ -40,3 +40,22 @@
 
 ## [Day20 - Functions](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
 
+## [Day21 - Function Arguments](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
+
+## [Day22 -Introduction to Lists](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
+
+## [Day23 - List Methods](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
+
+## [Day24 - Introduction to Tuples](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
+
+## [Day25 - Operations on Tuples](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
+
+## [Day26 - Exercise 2 Solution](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
+
+## [Day27 - Exercise 3](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
+
+## [Day28 - f strings](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
+
+## [Day29 - Docstrings](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
+
+## [Day30 - Recursion](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
