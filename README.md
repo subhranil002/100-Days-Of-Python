@@ -20,6 +20,26 @@
 
 ## [Day10 - Taking User Input](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md)
 
+## [Day11 - Strings](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
+
+## [Day12 - Strings Slicing](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
+
+## [Day13 - String Methods](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
+
+## [Day14 - If Else Conditionals](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
+
+## [Day15 - Exercise 2 - Good Morning Sir](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
+
+## [Day16 - Match Case](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
+
+## [Day17 - For Loops](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
+
+## [Day18 - While Loops](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
+
+## [Day19 - break and continue](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
+
+## [Day20 - Functions](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
+
 # Day 20 - Python Functions
 A function is a block of code that performs a specific task whenever it is called. In bigger programs, where we have large amounts of code, it is advisable to create or use existing functions that make the program flow organized and neat.
 
