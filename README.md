@@ -42,7 +42,7 @@
 
 ## [Day21 - Function Arguments](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
 
-## [Day22 -Introduction to Lists](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
+## [Day22 - Introduction to Lists](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
 
 ## [Day23 - List Methods](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
 
