@@ -59,3 +59,23 @@
 ## [Day29 - Docstrings](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
 
 ## [Day30 - Recursion](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
+
+## [Day31 - Sets](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+
+## [Day32 - Set Methods](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+
+## [Day33 - Dictionary](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+
+## [Day34 - Dictionary Methods](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+
+## [Day35 - For loop with else](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+
+## [Day36 - Exception Handling](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+
+## [Day37 - Finally keyword](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+
+## [Day38 - Custom Errors](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+
+## [Day39 - Exercise 3: Solution](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+
+## [Day40 - Exercise 4](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
