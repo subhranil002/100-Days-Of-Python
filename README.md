@@ -79,3 +79,23 @@
 ## [Day39 - Exercise 3: Solution](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
 
 ## [Day40 - Exercise 4](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+
+## [Day41 - Short Hand if else](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+
+## [Day42 - Enumerate](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+
+## [Day43 - Virtual Environment](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+
+## [Day44 - How import works](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+
+## [Day45 - If name == main in Python](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+
+## [Day46 - Os Module](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+
+## [Day47 - Exercise 4 Solution](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+
+## [Day48 - local vs global variables](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+
+## [Day49 - File IO](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+
+## [Day50 - Read, readlines and other methods](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
