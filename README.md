@@ -90,9 +90,9 @@
 
 ## [Day45 - If name == main in Python](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
 
-## [Day46 - Os Module](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+## [Day46 - OS Module](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
 
-## [Day47 - Exercise 4 Solution](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+## [Day47 - Exercise 4: Solution](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
 
 ## [Day48 - local vs global variables](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
 
