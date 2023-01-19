@@ -1,4 +1,4 @@
-# Day31 - Python Sets
+# Day 31 - Python Sets
 Sets are unordered collection of data items. They store multiple items in a single variable. Set items are separated by commas and enclosed within curly brackets {}. Sets are unchangeable, meaning you cannot change items of the set once created. Sets do not contain duplicate items.
 
 #### Example:
@@ -34,7 +34,7 @@ Carla
 19
 5.9
 ```
-# Day32 - Set Methods
+# Day 32 - Set Methods
 There are several in-built methods used for the manipulation of set.They are explained below
 ## isdisjoint():
 The isdisjoint() method checks if items of given set are present in another set. This method returns False if items are present, else it returns True.
@@ -314,7 +314,7 @@ print(cities.difference(cities2))
 {'Tokyo', 'Berlin', 'Madrid'}
 ```
 
-# Day33 - Python Dictionaries
+# Day 33 - Python Dictionaries
 Dictionaries are ordered collection of data items. They store multiple items in a single variable. Dictionary items are key-value pairs that are separated by commas and enclosed within curly brackets {}.
 
  
@@ -385,7 +385,7 @@ print(info.items())
 dict_items([('name', 'Karan'), ('age', 19), ('eligible', True)])
 ```
 
-# Day34 - Dictionary Methods
+# Day 34 - Dictionary Methods
 Dictionary uses several built-in methods for manipulation.They are listed below
 ## update() 
 The update() method updates the value of the key provided to it if the item already exists in the dictionary, else it creates a new key-value pair.
@@ -477,7 +477,7 @@ print(info)
 NameError: name 'info' is not defined
 ```
 
-# Day35 - Python - else in Loop
+# Day 35 - Python - else in Loop
 As you have learned before, the else clause is used along with the if statement.
 
 Python allows the else keyword to be used with the for and while loops too. The else block appears after the body of the loop. The statements in the else block will be executed after all iterations are completed. The program exits the loop only after the else block is executed.
@@ -507,7 +507,7 @@ else block in loop
 Out of loop
 ```
 
-# Day36 - Exception Handling
+# Day 36 - Exception Handling
 Exception handling is the process of responding to unwanted or unexpected events when a computer program runs. Exception handling deals with these events to avoid the program or system crashing, and without this process, exceptions would disrupt the normal operation of a program.
 # Exceptions in Python
 Python has many built-in exceptions that are raised when your program encounters an error (something in the program goes wrong).
@@ -539,7 +539,7 @@ Enter an integer: 6.022
 Number entered is not an integer.
 ```
 
-# Day37 - Finally Clause
+# Day 37 - Finally Clause
 The finally code block is also a part of exception handling. When we handle exception using the try and except block, we can include a finally block at the end. The finally block is always executed, so it is generally used for doing the concluding tasks like closing file resources or closing database connection or may be ending the program execution with a delightful message.
 # Syntax:
 ```
@@ -581,7 +581,7 @@ Number entered is not an integer.
 This block is always executed.
 ```
 
-# Day38 - Raising Custom errors 
+# Day 38 - Raising Custom errors 
 In python, we can raise custom errors by using the `raise`  keyword. 
 ```python
 salary = int(input("Enter salary amount: "))
@@ -609,10 +609,10 @@ except CustomError:
 
 This is useful because sometimes we might want to do something when a particular exception is raised. For example, sending an error report to the admin, calling an api, etc.
 
-# Day39 - Exercise 3: Solution
+# Day 39 - Exercise 3: Solution
 
 [1024. Kaun Banega Crorepati.py](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1024.%20Kaun%20Banega%20Crorepati.py)
 
-# Day40 - Exercise 4 : Create a Secret Code Language
+# Day 40 - Exercise 4 : Create a Secret Code Language
 
 Write a python program to translate a message into secret code language. Use the rules below to translate normal English into secret code language
