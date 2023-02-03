@@ -1,4 +1,4 @@
-[© @CodeWithHarry](https://github.com/CodeWithHarry)
+© [@CodeWithHarry](https://github.com/CodeWithHarry)
 
 ## [Day1 - Intro to Python](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md)
 
