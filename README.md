@@ -1,14 +1,21 @@
 © [@CodeWithHarry](https://github.com/CodeWithHarry)
 
-## [Day1 - Intro to Python](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md)
+## Day1 - Intro to Python
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-1---what-is-programming-and-python)
 
-## [Day2 - Application of Python](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md)
+## Day2 - Application of Python
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-2---my-python-success-story)
 
-## [Day3 - Modules and Pip](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md)
+## Day3 - Modules and Pip
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-3---modules-and-pip-in-python)
 
-## [Day4 - Our First Program](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md)
+## Day4 - Our First Program
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-4---our-first-program)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1001.%20First.py)
 
-## [Day5 - Comments and Print](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md)
+## Day5 - Comments and Print
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-5---comments-escape-sequence--print-in-python)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1002.%20Comments.py)
 
 ## [Day6 - Variables and Data Types](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md)
 
