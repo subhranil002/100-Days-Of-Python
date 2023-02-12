@@ -32,7 +32,7 @@ This 100 days of code series will help you learn python from starting to the end
 
 
 # Day 2 - My Python Success Story
-# Why I love python (And you will too...)
+## Why I love python (And you will too...)
 Welcome to Day 2 of 100 days of code. Let me start with a story! 
 Back in my college, I used to learn C and C++ programming in depth, used to score good marks. I created a bunch of printing, conditionals and loop program. Now what? I wanted to benefit from the same
 In my second year of college, I started working (I mean actually working in the industry) with the python programming language. I was not so good with it but I used to write code for a singaporean client and actually make good money without having to actually master Python. Harry then got curious and started working on his Python skills even more.
@@ -97,7 +97,7 @@ Please make sure you attempt this. Might be easy for some of you but please fini
 Welcome to Day 5 of 100DaysOfCode. Today we will talk about Comments, Escape Sequences and little bit more about print statement in Python.
 We will also throw some light on Escape Sequences
 
-# Python Comments
+## Python Comments
 A comment is a part of the coding file that the programmer does not want to execute, rather the programmer uses it to either explain a block of code or to avoid the execution of a specific part of code while testing.
 
 ## Single-Line Comments:
@@ -185,7 +185,7 @@ else:
 p is greater than 5.
 ```
 
-# Escape Sequence Characters
+## Escape Sequence Characters
 
 To insert characters that cannot be directly used in a string, we use an escape sequence character.
 
@@ -198,7 +198,7 @@ print("This doesnt "execute")
 print("This will \" execute")
 ```
 
-# More on Print statement
+## More on Print statement
 The syntax of a print statement looks something like this:
 
 ```python
@@ -245,7 +245,7 @@ By default, python provides the following built-in data types:
  -    float: 7.349, -9.0, 0.0000001
  -  complex: 6 + 2i 
 
- ## 2. Text data: str
+## 2. Text data: str
     
 
 str: "Hello World!!!", "Python Programming"
@@ -313,7 +313,7 @@ Output:
 
 # Day 7 - Operators
 Python has different types of operators for different operations. To create a calculator we require arithmetic operators.
-# Arithmetic operators
+## Arithmetic operators
 
 
 |   Operator             |Operator Name                          |Example                         |
@@ -326,7 +326,7 @@ Python has different types of operators for different operations. To create a ca
 |%|`Modulus`            |``` 15%7 ```            |
 |//|`Floor Division`            |``` 15//7 ```            |
 
-# Exercise
+## Exercise
 ```python
 n = 15
 m = 7
@@ -343,7 +343,7 @@ print("Modulus of",n,"and",m,"is", ans5)
 ans6 = n//m
 print("Floor Division of",n,"and",m,"is", ans6)
 ```
-# Explaination
+## Explaination
 Here 'n' and 'm' are two variables in which the integer value is being stored. Variables 'ans1' , 'ans2' ,'ans3', 'ans4','ans5' and 'ans6' contains the outputs corresponding to addition, subtraction,multiplication, division, modulus and floor division respectively.
 
 # Day 8 - Exercise 1 - Create a Calculator Solution
