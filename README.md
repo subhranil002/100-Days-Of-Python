@@ -17,15 +17,25 @@
 [Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-5---comments-escape-sequence--print-in-python)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1002.%20Comments.py)
 
-## [Day6 - Variables and Data Types](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md)
+## Day6 - Variables and Data Types
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-6---variables-and-data-types)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1004.%20Variables%20and%20Data%20Types.py)
 
-## [Day7 - Exercise 1 - Create a Calculator](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md)
+## Day7 - Operators
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-7---operators)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1005.%20Operators.py)
 
-## [Day8 - Exercise 1 - Create a Calculator (Solution)](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md)
+## Day8 - Exercise 1 - Create a Calculator
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-8---exercise-1---create-a-calculator-solution)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1006.%20Calculetor.py)
 
-## [Day9 - Typecasting in Python](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md)
+## Day9 - Typecasting in Python
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-9---typecasting-in-python)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1007.%20Typecasting.py)
 
-## [Day10 - Taking User Input](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md)
+## Day10 - Taking User Input
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-10---taking-user-input-in-python)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1008.%20User%20Input.py)
 
 ## [Day11 - Strings](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
 
