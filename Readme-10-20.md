@@ -49,27 +49,27 @@ for character in name:
 Above code prints all the characters in the string name one by one!
 
 # Day 12 - String Slicing & Operations on String
-# Length of a String
+## Length of a String
 We can find the length of a string using len() function.
 
-## Example:
+### Example:
 ```python
 fruit = "Mango"
 len1 = len(fruit)
 print("Mango is a", len1, "letter word.")
 ```
-## Output:
+### Output:
 Mango is a 5 letter word.
-# String as an array
+## String as an array
 A string is essentially a sequence of characters also called an array. Thus we can access the elements of this array. 
 
-## Example:
+### Example:
 ```python
 pie = "ApplePie"
 print(pie[:5])
 print(pie[6])	#returns character at specified index
 ```
-## Output:
+### Output:
 ```
 Apple
 i
@@ -85,22 +85,22 @@ print(pie[5:])      #Slicing till End
 print(pie[2:6])     #Slicing in between
 print(pie[-8:])     #Slicing using negative index
 ```
-## Output:
+### Output:
 ```
 Apple
 Pie
 pleP
 ApplePie
 ```
-# Loop through a String:
+## Loop through a String:
 Strings are arrays and arrays are iterable. Thus we can loop through strings.
-## Example:
+### Example:
 ```python
 alphabets = "ABCDE"
 for i in alphabets:
     print(i)
   ```
-## Output:
+### Output:
 ```
 A
 B
@@ -460,7 +460,7 @@ Based on this, the conditional statements are further classified into following 
 Execute the block of code inside if statement. After execution return to the code out of the if……else block.\
 ### if the expression evaluates False:
 Execute the block of code inside else statement. After execution return to the code out of the if……else block.
- ## Example:
+## Example:
 ```python
 applePrice = 210
 budget = 200
@@ -474,7 +474,7 @@ else:
 Alexa, do not add Apples to the cart.
 ```
 
-# elif Statements
+## elif Statements
 Sometimes, the programmer may want to evaluate more than one condition, this can be done using an elif statement.
 ### Working of an elif statement
 Execute the block of code inside if statement if the initial expression evaluates to True. After execution return to the code out of the if block.
@@ -504,7 +504,7 @@ else:
 Number is Zero.
 ```
 
-# Nested if statements
+## Nested if statements
 We can use if, if-else, elif statements inside other if statements as well. \
 Example:
 ```python
@@ -589,7 +589,7 @@ x % 2 == 0 and case is 4
 Sometimes a programmer wants to execute a group of statements a certain number of times. This can be done using loops. Based on this loops are further classified into following main types; 
 - for loop
 - while loop 
-# The for Loop
+## The for Loop
 for loops can iterate over a sequence of iterable objects in python. Iterating over a sequence is nothing but iterating over strings, lists, tuples, sets and dictionaries.
 
 ## Example: iterating over a string:
@@ -676,10 +676,10 @@ while (count > 0):
 
 Here, the count variable is set to 5 which decrements after each iteration. Depending upon the while loop condition, we need to either increment or decrement the counter variable (the variable count, in our case) or the loop will continue forever.
 
-# Else with While Loop
+## Else with While Loop
 We can even use the else statement with the while loop. Essentially what the else statement does is that as soon as the while loop condition becomes False, the interpreter comes out of the while loop and the else statement is executed. 
 
-## Example:
+### Example:
 
 ```python 
 x = 5
@@ -689,7 +689,7 @@ while (x > 0):
 else:
     print('counter is 0')
 ```
-## Output:
+### Output:
 ```
 5
 4
@@ -734,7 +734,7 @@ for i in [2,3,4,6,8,0]:
         continue
     print(i)
   ```
-  ## output
+## output
   ```
 2
 4
