@@ -57,15 +57,25 @@
 [Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-15---excersice-2-good-morning-sir)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1013.%20Good%20Morning%20Sir.py)
 
-## [Day16 - Match Case](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
+## Day16 - Match Case
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-16---match-case-statements)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1014.%20Match%20Case%20Statements.py)
 
-## [Day17 - For Loops](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
+## Day17 - For Loops
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-17---introduction-to-loops)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1015.%20For%20Loop.py)
 
-## [Day18 - While Loops](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
+## Day18 - While Loops
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-18---python-while-loop)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1016.%20While%20Loop.py)
 
-## [Day19 - break and continue](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
+## Day19 - break and continue
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-19---break-statement)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1017.%20Break%20%26%20Continue.py)
 
-## [Day20 - Functions](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md)
+## Day20 - Functions
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-20---python-functions)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1018.%20Functions.py)
 
 ## [Day21 - Function Arguments](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md)
 
