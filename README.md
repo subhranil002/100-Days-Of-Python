@@ -117,25 +117,45 @@
 [Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md#day-30---recursion-in-python)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1027.%20Recursion.py)
 
-## [Day31 - Sets](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+## Day31 - Sets
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md#day-31---python-sets)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1028.%20Sets.py)
 
-## [Day32 - Set Methods](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+## Day32 - Set Methods
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md#day-32---set-methods)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1029.%20Set%20Methods.py)
 
-## [Day33 - Dictionary](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+## Day33 - Dictionary
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md#day-33---python-dictionaries)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1030.%20Dictionary.py)
 
-## [Day34 - Dictionary Methods](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+## Day34 - Dictionary Methods
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md#day-34---dictionary-methods)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1031.%20Dictionary%20Methods.py)
 
-## [Day35 - For loop with else](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+## Day35 - For loop with else
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md#day-35---python---else-in-loop)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1032.%20For%20Loop%20With%20Else.py)
 
-## [Day36 - Exception Handling](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+## Day36 - Exception Handling
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md#day-36---exception-handling)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1033.%20Exception%20Handling.py)
 
-## [Day37 - Finally keyword](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+## Day37 - Finally keyword
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md#day-37---finally-clause)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1034.%20Finally.py)
 
-## [Day38 - Custom Errors](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+## Day38 - Custom Errors
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md#day-38---raising-custom-errors)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1035.%20Custom%20Error.py)
 
-## [Day39 - Exercise 3: Solution](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+## Day39 - Exercise 3: Solution
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md#day-39---exercise-3-solution)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1024.%20Kaun%20Banega%20Crorepati.py)
 
-## [Day40 - Exercise 4](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md)
+## Day40 - Exercise 4
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md#day-40---exercise-4--create-a-secret-code-language)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1036.%20Secret%20Code%20Language.py)
 
 ## [Day41 - Short Hand if else](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
 
