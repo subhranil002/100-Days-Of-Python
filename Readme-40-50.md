@@ -1,4 +1,4 @@
-## Day 41 - If ... Else in One Line
+# Day 41 - If ... Else in One Line
 There is also a shorthand syntax for the if-else statement that can be used when the condition being tested is simple and the code blocks to be executed are short. Here's an example:
 ```python
 a = 2
@@ -53,7 +53,7 @@ The output of this code will be:
 
 ```
 As you can see, the enumerate function returns a tuple containing the index and value of each element in the sequence. You can use the for loop to unpack these tuples and assign them to variables, as shown in the example above.
-# Changing the start index
+## Changing the start index
 By default, the enumerate function starts the index at 0, but you can specify a different starting index by passing it as an argument to the enumerate function:
 
 
@@ -371,7 +371,7 @@ print(y) # this will cause an error because y is a local variable and is not acc
 
 ```
 In this example, we have a global variable x and a local variable y. We can access the value of the global variable x from within the function, but we cannot access the value of the local variable y outside of the function.
-# The global keyword
+## The global keyword
 Now, what if we want to modify a global variable from within a function? This is where the global keyword comes in.
 
 The global keyword is used to declare that a variable is a global variable and should be accessed from the global scope. Here's an example:
