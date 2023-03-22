@@ -157,22 +157,39 @@
 [Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md#day-40---exercise-4--create-a-secret-code-language)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1036.%20Secret%20Code%20Language.py)
 
-## [Day41 - Short Hand if else](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+## Day41 - Short Hand if else
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/edit/master/Readme-40-50.md#day-41---if--else-in-one-line)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1037.%20Short%20Hand%20If%20Else.py)
 
-## [Day42 - Enumerate](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+## Day42 - Enumerate
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/edit/master/Readme-40-50.md#day-42---enumerate-function-in-python)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1038.%20Enumerate%20Function.py)
 
-## [Day43 - Virtual Environment](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+## Day43 - Virtual Environment
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/edit/master/Readme-40-50.md#day-43---virtual-environment)
 
-## [Day44 - How import works](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+## Day44 - How import works
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/edit/master/Readme-40-50.md#day-44---how-importing-in-python-works)
 
-## [Day45 - If name == main in Python](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+## Day45 - If name == main in Python
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/edit/master/Readme-40-50.md#day-45---if-__name__--__main__-in-python)
 
-## [Day46 - OS Module](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+## Day46 - OS Module
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/https://github.com/subhranil002/100-Days-Of-Python/edit/master/Readme-40-50.md#day-45---if-__name__--__main__-in-python/master/Readme-40-50.md#day-46---os-module-in-python)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1039.%20OS%20Module.py)
 
-## [Day47 - Exercise 4: Solution](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+## Day47 - Exercise 4: Solution
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/edit/master/Readme-40-50.md#day-47---exercise-4-solution)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1036.%20Secret%20Code%20Language.py)
 
-## [Day48 - local vs global variables](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+## Day48 - local vs global variables
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/edit/master/Readme-40-50.md#day-48---local-and-global-variables)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1040.%20Local%20%26%20Global%20Variable.py)
 
-## [Day49 - File IO](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+## Day49 - File IO
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/edit/master/Readme-40-50.md#day-49---file-io)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1041.%20File%20IO.py)
 
-## [Day50 - Read, readlines and other methods](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md)
+## Day50 - Read, readlines and other methods
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/edit/master/Readme-40-50.md#day-50---readline-writelines)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1042.%20File%20Methods.py)
