@@ -38,6 +38,8 @@ while True:
     elif (score == -1):
         print("You Win")
         totalscore += 1
+
+
     else:
         print("You Lose")
         if totalscore != 0:
