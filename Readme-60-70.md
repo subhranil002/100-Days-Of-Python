@@ -177,6 +177,16 @@ It's also worth noting that, in python, class variables are defined outside of a
 
 [1052. Library Management System.py](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1052.%20Library%20Management%20System.py)
 
+# Day 68 Exercise 7: Clear The Clutter
+
+Write a program to clear the clutter inside a folder on your computer. 
+You should use os module to rename all the png images from 1.png all the way till n.png where n is the number of png files in that folder. Do the same for other file formats. For example:
+- sfdsf.png --> 1.png
+- vfsf.png --> 2.png
+- this.png --> 3.png
+- design.png --> 4.png
+- name.png --> 5.png
+
 # Day 69 - Python Class Methods
 ## Python Class Methods: An Introduction
 
