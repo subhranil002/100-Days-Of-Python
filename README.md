@@ -25,7 +25,7 @@
 [Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-7---operators)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1005.%20Operators.py)
 
-## Day8 - Exercise 1 - Create a Calculator
+## Day8 - Exercise 1: Create a Calculator
 [Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-8---exercise-1---create-a-calculator-solution)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1006.%20Calculetor.py)
 
@@ -53,7 +53,7 @@
 [Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-14---if-else-statements)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1012.%20Conditions.py)
 
-## Day15 - Exercise 2 - Good Morning Sir
+## Day15 - Exercise 2: Good Morning Sir
 [Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-15---excersice-2-good-morning-sir)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1013.%20Good%20Morning%20Sir.py)
 
@@ -97,11 +97,10 @@
 [Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md#day-25---manipulating-tuples)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1023.%20Tuple%20Methods.py)
 
-## Day26 - Exercise 2 Solution
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md#day-26---excersice-2-good-morning-sir)
-&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1013.%20Good%20Morning%20Sir.py)
+## Day26 - Exercise 2: Solution
+[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1013.%20Good%20Morning%20Sir.py)
 
-## Day27 - Exercise 3
+## Day27 - Exercise 3: Kaun Banega Crorepati
 [Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-20-30.md#day-27---excersice-3)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1024.%20Kaun%20Banega%20Crorepati.py)
 
@@ -150,11 +149,10 @@
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1035.%20Custom%20Error.py)
 
 ## Day39 - Exercise 3: Solution
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md#day-39---exercise-3-solution)
-&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1024.%20Kaun%20Banega%20Crorepati.py)
+[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1024.%20Kaun%20Banega%20Crorepati.py)
 
-## Day40 - Exercise 4
-[Resource]()
+## Day40 - Exercise 4: Create a Secret Code Language
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-30-40.md#day-40---exercise-4--create-a-secret-code-language)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1036.%20Secret%20Code%20Language.py)
 
 ## Day41 - Short Hand if else
@@ -179,8 +177,7 @@
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1039.%20OS%20Module.py)
 
 ## Day47 - Exercise 4: Solution
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md#day-47---exercise-4-solution)
-&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1036.%20Secret%20Code%20Language.py)
+[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1036.%20Secret%20Code%20Language.py)
 
 ## Day48 - local vs global variables
 [Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-40-50.md#day-48---local-and-global-variables)
