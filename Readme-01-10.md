@@ -31,7 +31,7 @@ This 100 days of code series will help you learn python from starting to the end
 -   It is used in business and accounting to perform complex mathematical operations along with quantitative and qualitative analysis.
 
 
-# Day 2 - My Python Success Story
+# Day 2 - Harry's Python Success Story
 ## Why I love python (And you will too...)
 Welcome to Day 2 of 100 days of code. Let me start with a story! 
 Back in my college, I used to learn C and C++ programming in depth, used to score good marks. I created a bunch of printing, conditionals and loop program. Now what? I wanted to benefit from the same
