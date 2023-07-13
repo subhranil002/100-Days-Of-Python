@@ -383,7 +383,7 @@ print(southEastAsia)
 
 [1013. Good Morning Sir.py](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1013.%20Good%20Morning%20Sir.py)
 
-# Day 27 - Excersice 3
+# Day 27 - Excersice 3: Kaun Banega Crorepati
 
 ## Create a program capable of displaying questions to the user like KBC. 
 Use List data type to store the questions and their correct answers.
