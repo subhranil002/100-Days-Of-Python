@@ -195,4 +195,227 @@ I hope this helps clarify the difference between is and == in Python!
 Stone, Paper and Scissor is a variation of the children's game "rock-paper-scissors" where players use hand gestures to represent a Stone, Paper, or a Scissor. The Paper beats the Stone, the Stone beats the Scissor, and the Scissor beats the Paper.
 Write a python program to create a Stone Paper Scissor game in Python using if-else statements. Do not create any fancy GUI. Use proper functions to check for win.
 
+# Day 56 - Introduction to Object-oriented programming
+Introduction to Object-Oriented Programming in Python: In programming languages, mainly there are two approaches that are used to write program or code.
+- 1). Procedural Programming
+- 2). Object-Oriented Programming
+
+The procedure we are following till now is the “Procedural Programming” approach. So, in this session, we will learn about Object Oriented Programming (OOP).
+The basic idea of object-oriented programming (OOP) in Python is to use classes and objects to represent real-world concepts and entities.
+
+A class is a blueprint or template for creating objects. It defines the properties and methods that an object of that class will have. Properties are the data or state of an object, and methods are the actions or behaviors that an object can perform.
+
+An object is an instance of a class, and it contains its own data and methods. For example, you could create a class called "Person" that has properties such as name and age, and methods such as speak() and walk(). Each instance of the Person class would be a unique object with its own name and age, but they would all have the same methods to speak and walk.
+
+One of the key features of OOP in Python is encapsulation, which means that the internal state of an object is hidden and can only be accessed or modified through the object's methods. This helps to protect the object's data and prevent it from being modified in unexpected ways.
+
+Another key feature of OOP in Python is inheritance, which allows new classes to be created that inherit the properties and methods of an existing class. This allows for code reuse and makes it easy to create new classes that have similar functionality to existing classes.
+
+Polymorphism is also supported in Python, which means that objects of different classes can be treated as if they were objects of a common class. This allows for greater flexibility in code and makes it easier to write code that can work with multiple types of objects.
+
+In summary, OOP in Python allows developers to model real-world concepts and entities using classes and objects, encapsulate data, reuse code through inheritance, and write more flexible code through polymorphism.
+
+# Day 57 - Python Class and Objects
+A class is a blueprint or a template for creating objects, providing initial values for state (member variables or attributes), and implementations of behavior (member functions or methods). The user-defined objects are created using the class keyword.
+ 
+
+## Creating a Class:
+Let us now create a class using the class keyword.
+ 
+```python
+class Details:
+    name = "Rohan"
+    age = 20
+ ```
+
+## Creating an Object:
+Object is the instance of the class used to access the properties of the class
+Now lets create an object of the class.
+
+### Example:
+```python
+obj1 = Details() 
+```
+
+Now we can print values:
+
+### Example:
+```python
+class Details:
+    name = "Rohan"
+    age = 20
+
+obj1 = Details()
+print(obj1.name)
+print(obj1.age)
+```
+### Output:
+```
+Rohan
+20
+```
+
+## self parameter
+The self parameter is a reference to the current instance of the class, and is used to access variables that belongs to the class.
+
+It must be provided as the extra parameter inside the method definition. 
+
+ 
+
+### Example:
+```python
+class Details:
+    name = "Rohan"
+    age = 20
+
+    def desc(self):
+        print("My name is", self.name, "and I'm", self.age, "years old.")
+
+obj1 = Details()
+obj1.desc()
+ 
+```
+### Output:
+```
+My name is Rohan and I'm 20 years old.
+```
+
+# Day 58 - Constructors
+A constructor is a special method in a class used to create and initialize an object of a class. There are different types of constructors. Constructor is invoked automatically when an object of a class is created.
+
+A constructor is a unique function that gets called automatically when an object is created of a class. 
+The main purpose of a constructor is to initialize or assign values to the data members of that class. It cannot return any value other than None.
+## Syntax of Python Constructor
+```python
+def __init__(self):
+	# initializations
+ ```
+init is one of the reserved functions in Python. In Object Oriented Programming, it is known as a constructor.
+
+ ## Types of Constructors in Python
+1. Parameterized Constructor
+2. Default Constructor
+  
+### Parameterized Constructor in Python
+When the constructor accepts arguments along with self, it is known as parameterized constructor.
+
+These arguments can be used inside the class to assign the values to the data members. 
+#### Example:
+``` python
+class Details:
+    def __init__(self, animal, group):
+        self.animal = animal
+        self.group = group
+
+obj1 = Details("Crab", "Crustaceans")
+print(obj1.animal, "belongs to the", obj1.group, "group.")
+```
+#### Output:
+```
+Crab belongs to the Crustaceans group.
+```
+### Default Constructor in Python
+When the constructor doesn't accept any arguments from the object and has only one argument, self, in the constructor, it is known as a Default constructor.
+#### Example:
+```python
+class Details:
+  def __init__(self):
+    print("animal Crab belongs to Crustaceans group")
+obj1=Details()
+```
+#### Output:
+```
+animal Crab belongs to Crustaceans group
+```
+# Day 59 - Python Decorators
+Python decorators are a powerful and versatile tool that allow you to modify the behavior of functions and methods. They are a way to extend the functionality of a function or method without modifying its source code.
+
+A decorator is a function that takes another function as an argument and returns a new function that modifies the behavior of the original function. The new function is often referred to as a "decorated" function. The basic syntax for using a decorator is the following:
+```python
+@decorator_function
+def my_function():
+    pass
+```
+
+The @decorator_function notation is just a shorthand for the following code:
+```python
+def my_function():
+    pass
+my_function = decorator_function(my_function)
+```
+Decorators are often used to add functionality to functions and methods, such as logging, memoization, and access control.
+
+## Practical use case
+One common use of decorators is to add logging to a function. For example, you could use a decorator to log the arguments and return value of a function each time it is called:
+```python
+import logging
+
+def log_function_call(func):
+    def decorated(*args, **kwargs):
+        logging.info(f"Calling {func.__name__} with args={args}, kwargs={kwargs}")
+        result = func(*args, **kwargs)
+        logging.info(f"{func.__name__} returned {result}")
+        return result
+    return decorated
+
+@log_function_call
+def my_function(a, b):
+    return a + b
+```
+
+In this example, the log_function_call decorator takes a function as an argument and returns a new function that logs the function call before and after the original function is called.
+
+## Conclusion
+Decorators are a powerful and flexible feature in Python that can be used to add functionality to functions and methods without modifying their source code. They are a great tool for separating concerns, reducing code duplication, and making your code more readable and maintainable.
+
+In conclusion, python decorators are a way to extend the functionality of functions and methods, by modifying its behavior without modifying the source code. They are used for a variety of purposes, such as logging, memoization, access control, and more. They are a powerful tool that can be used to make your code more readable, maintainable, and extendable.
+
+# Day 60 - Getters & Setters
+
+## Getters
+Getters in Python are methods that are used to access the values of an object's properties. They are used to return the value of a specific property, and are typically defined using the @property decorator.
+Here is an example of a simple class with a getter method:
+```python
+class MyClass:
+    def __init__(self, value):
+        self._value = value
+
+    @property
+    def value(self):
+        return self._value
+```
+In this example, the MyClass class has a single property, _value, which is initialized in the __init__ method. The value method is defined as a getter using the @property decorator, and is used to return the value of the _value property.
+
+To use the getter, we can create an instance of the MyClass class, and then access the value property as if it were an attribute:
+```python
+>>> obj = MyClass(10)
+>>> obj.value
+10
+```
+## Setters
+It is important to note that the getters do not take any parameters and we cannot set the value through getter method.For that we need setter method which can be added by decorating method with @property_name.setter
+
+Here is an example of a class with both getter and setter:
+
+```python
+class MyClass:
+    def __init__(self, value):
+        self._value = value
+
+    @property
+    def value(self):
+        return self._value
+
+    @value.setter
+    def value(self, new_value):
+        self._value = new_value
+```
+We can use setter method like this:
+```python
+>>> obj = MyClass(10)
+>>> obj.value = 20
+>>> obj.value
+20
+```
+In conclusion, getters are a convenient way to access the values of an object's properties, while keeping the internal representation of the property hidden. This can be useful for encapsulation and data validation.
 
