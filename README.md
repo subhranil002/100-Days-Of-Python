@@ -38,43 +38,43 @@
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1008.%20User%20Input.py)
 
 ## Day11 - Strings
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-11---what-are-strings)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2011%20-%3E%2020.md#day-11---what-are-strings)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1009.%20Strings.py)
 
 ## Day12 - Strings Slicing
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-12---string-slicing--operations-on-string)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2011%20-%3E%2020.md#day-12---string-slicing--operations-on-string)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1010.%20String%20Slicing.py)
 
 ## Day13 - String Methods
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-13---string-methods)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2011%20-%3E%2020.md#day-13---string-methods)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1011.%20String%20Methods.py)
 
 ## Day14 - If Else Conditionals
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-14---if-else-statements)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2011%20-%3E%2020.md#day-14---if-else-statements)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1012.%20Conditions.py)
 
 ## Day15 - Exercise 2: Good Morning Sir
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-15---excersice-2-good-morning-sir)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2011%20-%3E%2020.md#day-15---excersice-2-good-morning-sir)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1013.%20Good%20Morning%20Sir.py)
 
 ## Day16 - Match Case
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-16---match-case-statements)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2011%20-%3E%2020.md#day-16---match-case-statements)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1014.%20Match%20Case%20Statements.py)
 
 ## Day17 - For Loops
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-17---introduction-to-loops)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2011%20-%3E%2020.md#day-17---introduction-to-loops)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1015.%20For%20Loop.py)
 
 ## Day18 - While Loops
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-18---python-while-loop)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2011%20-%3E%2020.md#day-18---python-while-loop)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1016.%20While%20Loop.py)
 
 ## Day19 - break and continue
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-19---break-statement)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2011%20-%3E%2020.md#day-19---break-statement)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1017.%20Break%20%26%20Continue.py)
 
 ## Day20 - Functions
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-10-20.md#day-20---python-functions)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2011%20-%3E%2020.md#day-20---python-functions)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1018.%20Functions.py)
 
 ## Day21 - Function Arguments
