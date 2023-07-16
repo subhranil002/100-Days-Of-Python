@@ -1,24 +1,28 @@
 © [@CodeWithHarry](https://github.com/CodeWithHarry)
 
 ## Day1 - Intro to Python
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme---01-->-10.md#day-1---what-is-programming-and-python)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2001%20-%3E%2010.md#day-1---what-is-programming-and-python)
 
 ## Day2 - Application of Python
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-2---my-python-success-story)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2001%20-%3E%2010.md#day-2---harrys-python-success-story)
 
 ## Day3 - Modules and Pip
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-3---modules-and-pip-in-python)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2001%20-%3E%2010.md#day-3---modules-and-pip-in-python)
 
 ## Day4 - Our First Program
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-4---our-first-program)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2001%20-%3E%2010.md#day-4---our-first-program)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1001.%20First.py)
 
 ## Day5 - Comments and Print
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-5---comments-escape-sequence--print-in-python)
-&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1002.%20Comments.py)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2001%20-%3E%2010.md#day-5---comments-escape-sequence--print-in-python)
+&nbsp;[Code1](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1002.%20Comments.py)&nbsp;[Code2](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1003.%20Print_Function.py)
+
+
+
+
 
 ## Day6 - Variables and Data Types
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-6---variables-and-data-types)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2001%20-%3E%2010.md#day-6---variables-and-data-types)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1004.%20Variables%20and%20Data%20Types.py)
 
 ## Day7 - Operators
