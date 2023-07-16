@@ -1,7 +1,7 @@
 © [@CodeWithHarry](https://github.com/CodeWithHarry)
 
 ## Day1 - Intro to Python
-[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-1---what-is-programming-and-python)
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme - 01 -> 10.md#day-1---what-is-programming-and-python)
 
 ## Day2 - Application of Python
 [Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme-01-10.md#day-2---my-python-success-story)
