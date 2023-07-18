@@ -228,6 +228,142 @@
 [Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2051%20-%3E%2060.md#day-60---getters--setters)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1049%20Getters%20and%20Setters.py)
 
+## Day 61 - Inheritance in Python
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2061%20-%3E%2070.md#day-61---inheritance-in-python)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1050.%20Inheritance.py)
+
+## Day 62 - Access Specifiers
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2061%20-%3E%2070.md#day-62---access-specifiersmodifiers)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1051.%20Access%20Modifiers.py)
+
+## Day 63 - Exercise 5: Solution
+[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1045.%20Stone%20Paper%20Scissor.py)
+
+## Day 64 - Exercise 6: Library Management System
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2061%20-%3E%2070.md#day-64---exercise-6-library-management-system)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1052.%20Library%20Management%20System.py)
+
+## Day 65 - Static Methods
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2061%20-%3E%2070.md#day-65---static-methods)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1053.%20Static%20Methods.py)
+
+## Day 66 - Instance vs Class variables
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2061%20-%3E%2070.md#day-66---instance-vs-class-variables)
+&nbsp;[Code]()
+
+## Day 67 - Exercise 6: Solution
+[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1052.%20Library%20Management%20System.py)
+
+## Day 68 - Exercise 7: Clear The Clutter
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2061%20-%3E%2070.md#day-68-exercise-7-clear-the-clutter)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1054.%20Clear%20the%20Clutter.py)
+
+## Day 69 - Class Methods
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2061%20-%3E%2070.md#day-69---python-class-methods)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1055.%20Class%20Methods.py)
+
+## Day 70 - Class methods as alternative constructors
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2061%20-%3E%2070.md#day-70---class-methods-as-alternative-constructors)
+&nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1056.%20Alternative%20Constructors.py)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
