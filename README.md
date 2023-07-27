@@ -266,110 +266,65 @@
 [Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2061%20-%3E%2070.md#day-70---class-methods-as-alternative-constructors)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1056.%20Alternative%20Constructors.py)
 
+## Day 70 - Class methods as alternative constructors
 
+## Day 71 - dir, dict and help methods
 
+## Day 72 - super Keyword
 
+## Day 73 - Magic/Dunder Methods
 
+## Day 74 - Method Overriding
 
+## Day 75 - Exercise 7: Solution
 
+## Day 76 - Exercise 8: Merge the PDF
 
+## Day 77 - Operator Overloading
 
+## Day 78 - Single Inheritance
 
+## Day 79 - Multiple Inheritance
 
+## Day 80 - Multilevel Inheritance
 
+## Day 81 - Hybrid and Hierarchical Inheritance
 
+## Day 82 - Exercise 8: Solution
 
+## Day 83 - Exercise 9: ShoutOuts To Everyone
 
+## Day 84 - Time Module
 
+## Day 85 - Command Line Utility
 
+## Day 86 - Walrus Operator
 
+## Day 87 - Shutil Module
 
+## Day 88 - Exercise 9 Solution
 
+## Day 89 - Requests Module
 
+## Day 90 - Exercise 10: NEWS App
 
+## Day 91 - Generators in Python
 
+## Day 92 - Function Caching
 
+## Day 93 - Exercise 10: Solution
 
+## Day 94 - Exercise 11: Drink Water Reminder
 
+## Day 95 - Regular Expressions
 
+## Day 96 - AsyncIO in Python
 
+## Day 97 - MultiThreading in Python
 
+## Day 98 - MultiProcessing in Python
 
+## Day 99 - Exercise 11: Solution
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Day 100 - Conclusion: Where to go from here
 
