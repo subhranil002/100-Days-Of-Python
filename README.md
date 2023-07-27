@@ -266,65 +266,117 @@
 [Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2061%20-%3E%2070.md#day-70---class-methods-as-alternative-constructors)
 &nbsp;[Code](https://github.com/subhranil002/100-Days-Of-Python/blob/master/1056.%20Alternative%20Constructors.py)
 
-## Day 70 - Class methods as alternative constructors
-
 ## Day 71 - dir, dict and help methods
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2071%20-%3E%2080.md#day-71---dir-__dict__-and-help-methods-in-python)
+&nbsp;[Code]()
 
 ## Day 72 - super Keyword
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2071%20-%3E%2080.md#day-72---super-keyword-in-python)
+&nbsp;[Code]()
 
 ## Day 73 - Magic/Dunder Methods
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2071%20-%3E%2080.md#day-73---magicdunder-methods-in-python)
+&nbsp;[Code]()
 
 ## Day 74 - Method Overriding
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2071%20-%3E%2080.md#day-74---method-overriding-in-python)
+&nbsp;[Code]()
 
 ## Day 75 - Exercise 7: Solution
+[Code]()
 
 ## Day 76 - Exercise 8: Merge the PDF
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2071%20-%3E%2080.md#day-76---exercise-8-merge-the-pdf)
+&nbsp;[Code]()
 
 ## Day 77 - Operator Overloading
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2071%20-%3E%2080.md#day-77---operator-overloading-in-python-an-introduction)
+&nbsp;[Code]()
 
 ## Day 78 - Single Inheritance
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2071%20-%3E%2080.md#day-78---single-inheritance-in-python)
+&nbsp;[Code]()
 
 ## Day 79 - Multiple Inheritance
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2071%20-%3E%2080.md#day-79---multiple-inheritance-in-python)
+&nbsp;[Code]()
 
 ## Day 80 - Multilevel Inheritance
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2071%20-%3E%2080.md#day-80---multilevel-inheritance-in-python)
+&nbsp;[Code]()
 
 ## Day 81 - Hybrid and Hierarchical Inheritance
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2081%20-%3E%2090.md#day-81---hybrid-inheritance--hierarchical-inheritance-in-python)
+&nbsp;[Code]()
 
 ## Day 82 - Exercise 8: Solution
+[Code]()
 
 ## Day 83 - Exercise 9: ShoutOuts To Everyone
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2081%20-%3E%2090.md#day-83---exercise-9-shoutouts-to-everyone)
+&nbsp;[Code]()
 
 ## Day 84 - Time Module
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2081%20-%3E%2090.md#day-84---the-time-module-in-python)
+&nbsp;[Code]()
 
 ## Day 85 - Command Line Utility
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2081%20-%3E%2090.md#day-85---creating-command-line-utilities-in-python)
+&nbsp;[Code]()
 
 ## Day 86 - Walrus Operator
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2081%20-%3E%2090.md#day-86---the-walrus-operator-in-python)
+&nbsp;[Code]()
 
 ## Day 87 - Shutil Module
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2081%20-%3E%2090.md#day-87---shutil-module-in-python)
+&nbsp;[Code]()
 
-## Day 88 - Exercise 9 Solution
+## Day 88 - Exercise 9: Solution
+[Code]()
 
 ## Day 89 - Requests Module
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2081%20-%3E%2090.md#day-89---requests-module-in-python)
+&nbsp;[Code]()
 
 ## Day 90 - Exercise 10: NEWS App
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2081%20-%3E%2090.md#day-90---exercise-10-news-app)
+&nbsp;[Code]()
 
 ## Day 91 - Generators in Python
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2091-%3E100.md#day-91---generators-in-python)
+&nbsp;[Code]()
 
 ## Day 92 - Function Caching
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2091-%3E100.md#day-92---function-caching-in-python)
+&nbsp;[Code]()
 
 ## Day 93 - Exercise 10: Solution
+[Code]()
 
 ## Day 94 - Exercise 11: Drink Water Reminder
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2091-%3E100.md#day-94---exercise-11-drink-water-reminder)
+&nbsp;[Code]()
 
 ## Day 95 - Regular Expressions
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2091-%3E100.md#day-95---regular-expressions-in-python)
+&nbsp;[Code]()
 
 ## Day 96 - AsyncIO in Python
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2091-%3E100.md#day-96---async-io-in-python)
+&nbsp;[Code]()
 
 ## Day 97 - MultiThreading in Python
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2091-%3E100.md#day-97---multithreading-in-python)
+&nbsp;[Code]()
 
 ## Day 98 - MultiProcessing in Python
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2091-%3E100.md#day-98---multiprocessing-in-python)
+&nbsp;[Code]()
 
 ## Day 99 - Exercise 11: Solution
+[Code]()
 
 ## Day 100 - Conclusion: Where to go from here
+[Resource](https://github.com/subhranil002/100-Days-Of-Python/blob/master/Readme%20-%2091-%3E100.md#day-100---conclusion-where-to-go-from-here)
 
